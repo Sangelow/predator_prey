@@ -19,6 +19,6 @@ The image can be converted to gif using FFMPEG:
 $ ffmpeg -i img/%08d.png output.gif
 ```
 
-![](https://github.com/sangelow/img/output.gif)
+![](https://github.com/Sangelow/predator_prey/blob/master/img/output.gif)
 
 
